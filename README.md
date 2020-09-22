@@ -1,1 +1,4 @@
-# rest-todo-app
+# REST TODO App
+
+A simple CRUD for a 'TODO app'
+
